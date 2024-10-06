@@ -1,0 +1,9 @@
+In my recent project, I designed a console-based To-Do List application in C#. During this project, I could apply and further study lots of programming concepts: object-oriented programming (OOP), file handling, and data structures, etc.
+
+To start with, I built the application based on a simple user interaction focus and functionality. Here, I adopted the fundamentals of OOP to create a Task class that held attributes, including the name of the task and whether it was done. The modularity improved upon the ability to work on the task attributes while making the code easier to read. Methods like adding and deleting tasks were straightforward and would help me maintain the code in a good state.
+
+A friendly interface was very important to make the application more user-friendly. I designed the console menu with many choices. Users can add tasks, view the list so far, mark tasks completed, and clear finished tasks. This interactive design makes an application easy to use by users and allows proper management of tasks.
+
+Another key skill used was file handling. Ensuring that tasks were carried over session after session, I added functionality to save tasks and load from a text file. This further implicated the use of StreamWriter for saving tasks and StreamReader for loading the tasks. Additionally, it proved that the individual was capable of doing input/output operations on data. Another capability added was the actual sorting capability, whereby users could sort tasks by name or even by a completion status. This further made the user experience better.
+
+Through this project, I not only honed my C# programming skill but improved my problem-solving abilities by solving user experience and data management problems. This really gets me ready with a deeper understanding of the software development process and in preparation to do more complex projects in the future.
